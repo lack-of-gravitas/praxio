@@ -27,45 +27,45 @@ export default function Login() {
             <p className="mt-4 prose">1 Terms & Definitions</p>
             <p className="mt-4 prose">
               <li>
-                "Customer" means any person or entity, and any associated person
+               {` "Customer" means any person or entity, and any associated person
                 or entity, who purchases the supply of Services from the
-                Supplier as indicated on the cover page for this Proposal;
+                Supplier as indicated on the cover page for this Proposal;`}
               </li>
               <li>
-                "Supplier" means Praxio (Praxio Pty Ltd as trustee for Praxio
-                Holding Trust, 6 Surrey Street, Ringwood, VIC, 3134);
+                {`"Supplier" means Praxio (Praxio Pty Ltd as trustee for Praxio
+                Holding Trust, 6 Surrey Street, Ringwood, VIC, 3134);`}
               </li>
               <li>
-                "Terms and Conditions" means the Terms and Conditions of supply
+                {`"Terms and Conditions" means the Terms and Conditions of supply
                 set out in this document and any additional Terms and Conditions
-                agreed in writing by the Supplier.
+                agreed in writing by the Supplier.`}
               </li>
               <li>
-                "Services" means work performed by the Supplier as agreed in
+               {` "Services" means work performed by the Supplier as agreed in
                 contract with the Customer involving: the purchase,
                 installation, and configuration of software, the supply of
                 consulting Services to the Customer, supplying other Services
                 including but not limited to graphic design, web design,
                 application development, data conversion, data migration,
-                documentation and training.
+                documentation and training.`}
               </li>
               <li>
-                "Proposal" means this document and accompanying terms and
+                {`"Proposal" means this document and accompanying terms and
                 conditions outlining the Supplier’s understanding of the
                 Customer’s requirements, high level cost estimates for Services,
                 and any options, recommendations and assumptions made by the
-                Supplier.
+                Supplier.`}
               </li>
               <li>
-                "Estimate" means specific fixed price or time & materials cost
+               {` "Estimate" means specific fixed price or time & materials cost
                 and schedule estimates provided by the Supplier to the Customer
-                based on clarified, confirmed & agreed business requirements.
+                based on clarified, confirmed & agreed business requirements.`}
               </li>
               <li>
-                "Agreement" or “Contract”means a legally binding contract
+               {` "Agreement" or "Contract" means a legally binding contract
                 entered into between the Customer and the Supplier in which the
                 Supplier agrees to provide specified Services to the Customer
-                and includes:
+                and includes:`}
               </li>
               <li>
                 Acceptance of this Proposal provided by the Supplier based on
@@ -159,7 +159,7 @@ export default function Login() {
                 of Services completed in the estimated timeframe, this cannot be
                 guaranteed as the project may be affected by changing Customer
                 requirements, technical issues with implementation, and
-                circumstances outside the Supplier's control including force
+                circumstances outside the Supplier&apos;s control including force
                 majeure scenarios.
               </li>
               <li>
@@ -171,7 +171,7 @@ export default function Login() {
                 Where the Supplier ceases to trade, or automatically should no
                 Supplier representative be available for a period of at least
                 one week, the Supplier shall be liable to provide, at the
-                Customer's request, any and all access and configuration details
+                Customer&apos;s request, any and all access and configuration details
                 in a reasonable state to the Customer to ensure business
                 continuity. In this context being available means responding to
                 phone or email requests.
@@ -242,7 +242,7 @@ export default function Login() {
             <p className="mt-4 prose">
               <li>
                 Anything resulting from or arising in the course of delivering
-                agreed Services shall be deemed "Work Product".
+                agreed Services shall be deemed Work Product.
               </li>
               <li>
                 The Customer shall own all customer data and business specific
@@ -264,12 +264,12 @@ export default function Login() {
               <li>
                 Notwithstanding anything to the contrary in a contract between
                 the Supplier and Customer, the Supplier shall not be prohibited
-                or enjoined at any time by Customer from utilising any "skills
-                or knowledge of a general nature" acquired during the course of
+                or enjoined at any time by Customer from utilising any skills
+                or knowledge of a general nature acquired during the course of
                 performing the Services specified under this contract.
               </li>
               <li>
-                "Skills or knowledge of a general nature" shall include, without
+                Skills or knowledge of a general nature shall include, without
                 limitation, information publicly known or that could reasonably
                 have been acquired in the conduct of similar work performed for
                 another Customer.
@@ -380,7 +380,7 @@ export default function Login() {
                 problems with data, except where the configuration by the
                 Supplier is determined to be the root cause
               </li>
-              <li>problems outside the Supplier's control</li>
+              <li>problems outside the Supplier&apos;s control</li>
               <li>training issues with Users</li>
               <li>
                 Given the technical nature of issues & problems, the Supplier
@@ -427,7 +427,7 @@ export default function Login() {
                 damages. The Customer expressly agrees to such a waiver.
               </li>
               <li>
-                Any software and associated configuration is provided "as is"
+                Any software and associated configuration is provided as is
                 without warranties as to performance or merchantability or any
                 other warranties whether expressed or implied. Because of the
                 various hardware and software environments into which the
@@ -435,7 +435,7 @@ export default function Login() {
                 for a particular purpose is offered.
               </li>
               <li>
-                Supplier's liability will be limited exclusively to replacement
+                Supplier&apos;s liability will be limited exclusively to replacement
                 or refund of the service charge related to providing
                 configuration Services.
               </li>
